@@ -15,6 +15,7 @@
 */
 
 import Foundation
+import UIKit
 
 protocol CreateQrcodeModelInput {
     func createQrcode(
